@@ -1,2 +1,3 @@
 net.minecraft.registry.entry.RegistryEntry comp_349() value()
 net.minecraft.text.PlainTextContent.Literal net.minecraft.text.LiteralTextContent
+net.minecraft.network.chat.contents.PlainTextContents.LiteralContents net.minecraft.network.chat.contents.LiteralContents
